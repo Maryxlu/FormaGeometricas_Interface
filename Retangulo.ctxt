@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Retangulo
+comment0.text=\n\ Write\ a\ description\ of\ class\ CopyOfCirculo\ here.\n\n\ @Maryxlu\n\ @25/06/2024\n
+comment1.params=
+comment1.target=Retangulo()
+comment2.params=base\ altura
+comment2.target=Retangulo(double,\ double)
+comment3.params=
+comment3.target=double\ getBase()
+comment4.params=
+comment4.target=double\ getAltura()
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=
+comment6.target=double\ getArea()
+comment7.params=
+comment7.target=double\ getPerimetro()
+numComments=8

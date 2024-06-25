@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Quadrado
+comment0.text=\n\ Write\ a\ description\ of\ class\ CopyOfCirculo\ here.\n\n\ @Maryxlu\n\ @25/06/2024\n
+comment1.params=lado
+comment1.target=Quadrado(double)
+comment2.params=
+comment2.target=double\ getLado()
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=
+comment4.target=double\ getArea()
+comment5.params=
+comment5.target=double\ getPerimetro()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FormaGeometrica
+comment0.text=\n\ Interface\ abstrata\ das\ formas\ geometricas\n\n\ @Maryxlu\n\ @25/06/2024\n
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment2.params=
+comment2.target=double\ getArea()
+comment3.params=
+comment3.target=double\ getPerimetro()
+numComments=4
